@@ -1,0 +1,13 @@
+input {
+  display: block;
+  margin: 10px 0px;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+.blue {
+  background-color: blue;
+  color: white;
+}
